@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3bce30b-4d87-48d6-84c9-8dfff6ca1b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HLT_Assignment2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2_release/CS4395_Assignment2_report_sp25.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2_release/CS4395_Assignment2_sp25.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment2_release/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2_release/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment2_release/ffnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2_release/ffnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment2_release/rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2_release/rnn.py" afterDir="false" />
+    <list default="true" id="f3bce30b-4d87-48d6-84c9-8dfff6ca1b9a" name="Changes" comment="finalized code">
+      <change beforePath="$PROJECT_DIR$/assignment2_release" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2_release" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,12 +90,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744734020945</updated>
-      <workItem from="1744734022946" duration="23429000" />
+      <workItem from="1744734022946" duration="23798000" />
     </task>
+    <task id="LOCAL-00001" summary="finalized code">
+      <option name="closed" value="true" />
+      <created>1744778222068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744778222068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finalized code" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
